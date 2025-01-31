@@ -67,7 +67,3 @@ The API will be available at `http://localhost:8080`
 ## Security
 
 The API uses Spring Security for authentication and authorization. All endpoints except `/auth/**` require authentication.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
